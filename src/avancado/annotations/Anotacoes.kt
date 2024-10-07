@@ -1,4 +1,4 @@
-package annotations
+package avancado.annotations
 
 @Target(AnnotationTarget.CLASS)
 @Retention(AnnotationRetention.RUNTIME)
