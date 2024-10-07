@@ -1,4 +1,4 @@
-package delegate
+package avancado.delegate
 
 class Usuario {
     val nome: String by lazy {

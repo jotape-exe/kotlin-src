@@ -1,4 +1,4 @@
-package typealias_exemplo
+package avancado.typealias_exemplo
 
 typealias Operacao = (Int, Int) -> Int
 

@@ -1,4 +1,4 @@
-package async
+package avancado.async
 
 fun chamadaFakeApi(mensagem: String){
     println(mensagem)

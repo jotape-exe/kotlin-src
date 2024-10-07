@@ -1,4 +1,4 @@
-package delegate
+package avancado.delegate
 
 data class AlunoRequest(
     val nome: String,
@@ -33,7 +33,7 @@ fun main() {
         email = "maria.oliveira@example.com"
     )
 
-    // Usando o delegate para converter AlunoRequest em Aluno
+    // Usando o avancado.delegate para converter AlunoRequest em Aluno
     val alunoDelegate = AlunoDelegate()
     val aluno = alunoDelegate(alunoRequest)
 

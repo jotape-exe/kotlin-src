@@ -1,4 +1,4 @@
-package delegate
+package avancado.delegate
 
 import kotlin.properties.Delegates
 
